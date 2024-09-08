@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ignatius Kisekka
-- 👀 I’m interested in buiding software
-- 🌱 I’m continuously learning Software Development best practices
+- 👀 I build software
 
 <!---
 Ignatius-K/Ignatius-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
